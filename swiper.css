@@ -1,0 +1,22 @@
+.swiper {
+  margin: 15px 50px 15px 50px !important;
+}
+.swiper-slide {
+  width: 280px !important;
+  margin-right: 20px !important;
+}
+.slide-content {
+  margin: 0px 0px 0px 44px
+}
+.card-image {
+  width: 270px;
+  cursor: pointer;
+}
+.swiper-button-prev {
+  right: -3px;
+}
+.card-image:hover {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
